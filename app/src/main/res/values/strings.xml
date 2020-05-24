@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Akash Verma</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">
+        Hi, my name is Akash.
+        \n\n I Love wrestling.
+        \n\n I was born in 27-01-2001 in Vijaypur, District - Samba, Jammu and Kashmir. This is my About me page, so I have to say something about myself.
+        \nSometimes it is hard to introduce yourself because you know yourself so well that you do not know where to start with.
+        \n\nLet me give a try to see what kind of image you have about me through my self-description.
+        \nI hope that my impression about myself and your impression about me are not so different. Here it goes.
+        \nI am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience.
+        \nI like to read, I like to write; I like to think creative, I like to listen.I like to see the sunrise in the morning, I like to see the moonlight in the night;
+        \nI like to do thought experiment when I cannot sleep in the middle of the night.
+        \nI like country’s peace.\n\n
+    </string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
